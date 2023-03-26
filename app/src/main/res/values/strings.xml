@@ -44,4 +44,5 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
     <string name="switch_text">Меняет цвет фона карточки\nвыше при переключении</string>
+    <string name="descr">Lorem ipsum dolor sit amet, consectetur\nadipiscing elit, sed do eiusmod tempor</string>
 </resources>
